@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Kafka, JavaScript and its frameworks.
 - 💞️ I’m looking to collaborate on projects made in Flask, Django, NodeJS and React.
 - 📫 How to reach me: lucasmvegap@gmail.com
-[Twitter](https://twitter.com/lucasvegap), [Instagram](https://www.instagram.com/lucas_vegap/), [Repl.it](https://replit.com/@LucasVega777).
+[Twitter](https://twitter.com/lucasvegap), [Instagram](https://www.instagram.com/lucas_vegap/), [Repl.it](https://replit.com/@LucasVega777), [LinkedIn](https://www.linkedin.com/in/lucasmvegap/)
 
 <!---
 LucasVega777/LucasVega777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
